@@ -44,7 +44,7 @@ Utilities for mathematical computation and logic verification.
 ## 🌟 Featured Projects
 
 ### 🔥 Fire Detection System
-* **Location:** `Image_Processing/fire.py`
+* **Location:** `stanCode-001-Project/Image_Processing/fire.py`
 * **Description:** A prototype for disaster detection. It iterates through every pixel of an image to calculate the average brightness. If a pixel's red intensity exceeds the dynamic threshold, it is identified as fire and highlighted, while non-fire regions are converted to grayscale.
 * **Code Snippet:**
     ```python
@@ -55,7 +55,7 @@ Utilities for mathematical computation and logic verification.
     ```
 
 ### 🎮 The Hangman Game
-* **Location:** `String_Algorithms/hangman.py`
+* **Location:** `stanCode-001-Project/String_Algorithms/hangman.py`
 * **Description:** A robust CLI (Command Line Interface) game. Players have limited attempts to guess a hidden word.
 * **Features:**
     * Random word selection from a predefined dictionary.
@@ -74,7 +74,7 @@ Utilities for mathematical computation and logic verification.
 
 2.  **Run a script (e.g., Hangman):**
     ```bash
-    python3 String_Algorithms/hangman.py
+    python3 stanCode-001-Project/String_Algorithms/hangman.py
     ```
 
 ---
