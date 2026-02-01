@@ -66,7 +66,9 @@ Utilities for mathematical computation and logic verification.
     * Random word selection from a predefined dictionary.
     * Real-time dashboard updates (e.g., `D-M-C--C-`).
     * Input sanitization and error handling.
+* **Demo:**
 
+  <img src="https://github.com/user-attachments/assets/ff6d2051-5057-4168-a73c-c4e3e207d349" alt="Hangman Gameplay">
 ---
 
 ## 🚀 How to Run
