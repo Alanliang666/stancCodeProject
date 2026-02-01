@@ -53,6 +53,11 @@ Utilities for mathematical computation and logic verification.
         pixel.green = 0
         pixel.blue = 0
     ```
+* **Demo:**
+  
+  | Original Image | Processed (Highlight Fire) |
+  | :---: | :---: |
+  | <img src="https://github.com/user-attachments/assets/18bca155-1457-49d0-ba19-a2246603d4a3" width="300"> | <img src="https://github.com/user-attachments/assets/17b4877b-e662-4b2a-8680-3f8cff1a4559" width="300"> |
 
 ### 🎮 The Hangman Game
 * **Location:** `stanCode-001-Project/String_Algorithms/hangman.py`
