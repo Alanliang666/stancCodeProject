@@ -91,14 +91,3 @@ Utilities for mathematical computation and logic verification.
 **Alan Liang**
 * Passionate about software development and algorithmic problem solving.
 * Open to collaboration and code reviews.
-
-
----
-
-## 🏆 Certifications
-
-**SC001: Programming Abstractions (stanCode)**
-* **Issued:** Dec 2025
-* **Focus:** Completed 4 major programming projects demonstrating proficiency in Python logic, control flow, and algorithms.
-
-<img src="https://github.com/user-attachments/assets/c84343f0-1074-4d57-8dff-d46bf770c10b" alt="stanCode Certificate" width="500">
